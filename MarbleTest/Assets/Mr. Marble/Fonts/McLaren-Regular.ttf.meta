@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 7e402539674004fe7a5252304d867907
+timeCreated: 1519444379
+licenseType: Store
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 128
+  forceTextureCase: 0
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: McLaren
+  fontNames:
+  - McLaren
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

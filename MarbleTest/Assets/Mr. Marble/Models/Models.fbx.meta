@@ -1,0 +1,206 @@
+fileFormatVersion: 2
+guid: 0cfa624e4486343748c5893e032436e9
+timeCreated: 1510971309
+licenseType: Store
+ModelImporter:
+  serializedVersion: 21
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: ButtonBack
+    100004: ButtonPlay
+    100006: ButtonPlay.001
+    100008: ButtonFacebook
+    100010: ButtonKuneko
+    100012: ButtonMusicOff
+    100014: ButtonMusicOn
+    100016: ButtonSoundOff
+    100018: ButtonSoundOn
+    100020: ButtonTwitter
+    100022: ButtonIconFacebook
+    100024: ButtonIconKuneko
+    100026: ButtonIconMusicOff
+    100028: ButtonIconMusicOn
+    100030: ButtonIconPlay
+    100032: ButtonIconSoundOff
+    100034: ButtonIconSoundOn
+    100036: ButtonIconTwitter
+    100038: Fade
+    100040: Marble
+    100042: Marble01
+    100044: Marble02
+    100046: Marble03
+    100048: Marble04
+    400000: //RootNode
+    400002: ButtonBack
+    400004: ButtonPlay
+    400006: ButtonPlay.001
+    400008: ButtonFacebook
+    400010: ButtonKuneko
+    400012: ButtonMusicOff
+    400014: ButtonMusicOn
+    400016: ButtonSoundOff
+    400018: ButtonSoundOn
+    400020: ButtonTwitter
+    400022: ButtonIconFacebook
+    400024: ButtonIconKuneko
+    400026: ButtonIconMusicOff
+    400028: ButtonIconMusicOn
+    400030: ButtonIconPlay
+    400032: ButtonIconSoundOff
+    400034: ButtonIconSoundOn
+    400036: ButtonIconTwitter
+    400038: Fade
+    400040: Marble
+    400042: Marble01
+    400044: Marble02
+    400046: Marble03
+    400048: Marble04
+    2300000: //RootNode
+    2300002: ButtonBack
+    2300004: ButtonPlay
+    2300006: ButtonPlay.001
+    2300008: ButtonFacebook
+    2300010: ButtonKuneko
+    2300012: ButtonMusicOff
+    2300014: ButtonMusicOn
+    2300016: ButtonSoundOff
+    2300018: ButtonSoundOn
+    2300020: ButtonTwitter
+    2300022: ButtonIconFacebook
+    2300024: ButtonIconKuneko
+    2300026: ButtonIconMusicOff
+    2300028: ButtonIconMusicOn
+    2300030: ButtonIconPlay
+    2300032: ButtonIconSoundOff
+    2300034: ButtonIconSoundOn
+    2300036: ButtonIconTwitter
+    2300038: Fade
+    2300040: Marble
+    2300042: Marble01
+    2300044: Marble02
+    2300046: Marble03
+    2300048: Marble04
+    3300000: //RootNode
+    3300002: ButtonBack
+    3300004: ButtonPlay
+    3300006: ButtonPlay.001
+    3300008: ButtonFacebook
+    3300010: ButtonKuneko
+    3300012: ButtonMusicOff
+    3300014: ButtonMusicOn
+    3300016: ButtonSoundOff
+    3300018: ButtonSoundOn
+    3300020: ButtonTwitter
+    3300022: ButtonIconFacebook
+    3300024: ButtonIconKuneko
+    3300026: ButtonIconMusicOff
+    3300028: ButtonIconMusicOn
+    3300030: ButtonIconPlay
+    3300032: ButtonIconSoundOff
+    3300034: ButtonIconSoundOn
+    3300036: ButtonIconTwitter
+    3300038: Fade
+    3300040: Marble
+    3300042: Marble01
+    3300044: Marble02
+    3300046: Marble03
+    3300048: Marble04
+    4300000: ButtonBack
+    4300002: ButtonPlay
+    4300004: ButtonPlay.001
+    4300006: ButtonKuneko
+    4300008: ButtonTwitter
+    4300010: ButtonMusicOff
+    4300012: ButtonSoundOff
+    4300014: ButtonFacebook
+    4300016: ButtonMusicOn
+    4300018: ButtonSoundOn
+    4300020: ButtonIconKuneko
+    4300022: ButtonIconTwitter
+    4300024: ButtonIconMusicOff
+    4300026: ButtonIconSoundOff
+    4300028: ButtonIconFacebook
+    4300030: ButtonIconMusicOn
+    4300032: ButtonIconSoundOn
+    4300034: ButtonIconPlay
+    4300036: Fade
+    4300038: Marble
+    4300040: Marble04
+    4300042: Marble03
+    4300044: Marble02
+    4300046: Marble01
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
